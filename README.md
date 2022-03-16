@@ -1,4 +1,4 @@
-# Hi, I’m @AyaZayed :wave:
+# Hi, I’m Aya Zayed :wave:
 
 ![Aya Zayed](https://user-images.githubusercontent.com/79711578/158643217-64b1e7fc-3b4c-424b-9189-5cf4a5e82adb.png)
 
