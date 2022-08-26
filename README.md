@@ -1,5 +1,5 @@
 # Hi, I’m Aya Zayed :wave:
-![Hello, I'm Aya](https://user-images.githubusercontent.com/79711578/186988261-bb8bc9f0-c94a-4b36-a341-d729c0aa499b.png)
+![Hello, I'm Aya](https://user-images.githubusercontent.com/79711578/186988687-94968443-0853-48c9-8880-2fb969104063.png)
 
 - I’m interested in all things web
 - I’m currently learning front-end web development with React.js
