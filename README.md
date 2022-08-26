@@ -1,9 +1,8 @@
 # Hi, I’m Aya Zayed :wave:
-
-![Aya Zayed](https://user-images.githubusercontent.com/79711578/158643217-64b1e7fc-3b4c-424b-9189-5cf4a5e82adb.png)
+![Hello, I'm Aya](https://user-images.githubusercontent.com/79711578/186987859-0096f1c0-30ee-4ef7-b575-294e06a92f3c.png)
 
 - I’m interested in all things web
-- I’m currently learning front-end web development
+- I’m currently learning front-end web development with React.js
 - I’m looking to collaborate on intersting projects
 
 ### How to reach me 📫 :
