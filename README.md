@@ -5,6 +5,9 @@
 - I’m currently learning front-end web development with React.js
 - I’m looking to collaborate on intersting projects
 
+### Check my portfolio:
+- [Portfolio](https://ayazayed-portfolio.vercel.app/)
+
 ### How to reach me 📫 :
 - [Linkedin](https://www.linkedin.com/in/aya-zayed-2000)
 - [FaceBook](https://www.facebook.com/aya.zayed.969)
